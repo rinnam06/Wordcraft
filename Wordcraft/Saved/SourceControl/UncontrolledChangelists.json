@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/_Wordcraft/BPI_Interact.uasset",
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/_Wordcraft/_Blueprint/BP_TestItem.uasset",
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HF/KVSGML1Q05QZ6FN8TQDAEK.uasset",
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/46/NAEN35G1WCKO5N8BDQ6S80.uasset",
+				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/V0/QBKOKP7DT1U17UX7KU108U.uasset"
+			]
+		}
+	]
+}
