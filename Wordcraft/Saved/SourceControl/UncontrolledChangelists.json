@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Wordcraft/Wordcraft/Content/_Wordcraft/MyQuests_Time.uasset",
+				"D:/Wordcraft/Wordcraft/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Wordcraft/Wordcraft/Content/_Wordcraft/_Map/room1_Map.umap",
+				"D:/Wordcraft/Wordcraft/Content/_Wordcraft/_Blueprint/BP_DropZone.uasset",
+				"D:/Wordcraft/Wordcraft/Content/_Wordcraft/_UI/WBP_HackerScreen.uasset",
 				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/_Wordcraft/BPI_Interact.uasset",
 				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/.homework/forth_year/Wordcraft/Wordcraft/Content/_Wordcraft/_Blueprint/BP_TestItem.uasset",
