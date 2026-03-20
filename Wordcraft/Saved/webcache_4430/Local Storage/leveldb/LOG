@@ -1,0 +1,65 @@
+2026/03/20-17:38:20.679 e10 Reusing MANIFEST D:/Wordcraft/Wordcraft/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-17:38:20.681 e10 Recovering log #204
+2026/03/20-17:38:20.681 e10 Level-0 table #207: started
+2026/03/20-17:38:20.684 e10 Level-0 table #207: 73843 bytes OK
+2026/03/20-17:38:20.685 e10 Delete type=0 #204
+2026/03/20-17:43:32.120 1ee0 Level-0 table #210: started
+2026/03/20-17:43:32.125 1ee0 Level-0 table #210: 73802 bytes OK
+2026/03/20-17:43:32.127 1ee0 Delete type=0 #208
+2026/03/20-17:43:32.127 1ee0 Compacting 4@0 + 1@1 files
+2026/03/20-17:43:32.128 1ee0 Generated table #211@0: 4 keys, 37036 bytes
+2026/03/20-17:43:32.128 1ee0 Compacted 4@0 + 1@1 files => 37036 bytes
+2026/03/20-17:43:32.129 1ee0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-17:43:32.130 1ee0 Delete type=2 #201
+2026/03/20-17:43:32.130 1ee0 Delete type=2 #203
+2026/03/20-17:43:32.130 1ee0 Delete type=2 #205
+2026/03/20-17:43:32.130 1ee0 Delete type=2 #207
+2026/03/20-17:43:32.130 1ee0 Delete type=2 #210
+2026/03/20-17:43:47.405 3288 Level-0 table #213: started
+2026/03/20-17:43:47.410 3288 Level-0 table #213: 73611 bytes OK
+2026/03/20-17:43:47.411 3288 Delete type=0 #209
+2026/03/20-17:48:07.746 a74 Level-0 table #215: started
+2026/03/20-17:48:07.753 a74 Level-0 table #215: 73347 bytes OK
+2026/03/20-17:48:07.754 a74 Delete type=0 #212
+2026/03/20-17:48:22.799 3288 Level-0 table #217: started
+2026/03/20-17:48:22.801 3288 Level-0 table #217: 73131 bytes OK
+2026/03/20-17:48:22.802 3288 Delete type=0 #214
+2026/03/20-17:48:53.211 a74 Level-0 table #219: started
+2026/03/20-17:48:53.214 a74 Level-0 table #219: 73395 bytes OK
+2026/03/20-17:48:53.216 a74 Delete type=0 #216
+2026/03/20-17:48:53.217 a74 Compacting 4@0 + 1@1 files
+2026/03/20-17:48:53.220 a74 Generated table #220@0: 4 keys, 36888 bytes
+2026/03/20-17:48:53.220 a74 Compacted 4@0 + 1@1 files => 36888 bytes
+2026/03/20-17:48:53.221 a74 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-17:48:53.222 a74 Delete type=2 #211
+2026/03/20-17:48:53.223 a74 Delete type=2 #213
+2026/03/20-17:48:53.223 a74 Delete type=2 #215
+2026/03/20-17:48:53.223 a74 Delete type=2 #217
+2026/03/20-17:48:53.223 a74 Delete type=2 #219
+2026/03/20-17:49:46.771 2524 Level-0 table #222: started
+2026/03/20-17:49:46.774 2524 Level-0 table #222: 73383 bytes OK
+2026/03/20-17:49:46.776 2524 Delete type=0 #218
+2026/03/20-18:08:05.231 3b40 Level-0 table #224: started
+2026/03/20-18:08:05.238 3b40 Level-0 table #224: 73558 bytes OK
+2026/03/20-18:08:05.240 3b40 Delete type=0 #221
+2026/03/20-18:08:21.782 2524 Level-0 table #226: started
+2026/03/20-18:08:21.783 2524 Level-0 table #226: 73307 bytes OK
+2026/03/20-18:08:21.784 2524 Delete type=0 #223
+2026/03/20-18:09:29.766 415c Level-0 table #228: started
+2026/03/20-18:09:29.770 415c Level-0 table #228: 73259 bytes OK
+2026/03/20-18:09:29.772 415c Delete type=0 #225
+2026/03/20-18:09:29.773 415c Compacting 4@0 + 1@1 files
+2026/03/20-18:09:29.776 415c Generated table #229@0: 4 keys, 36760 bytes
+2026/03/20-18:09:29.776 415c Compacted 4@0 + 1@1 files => 36760 bytes
+2026/03/20-18:09:29.777 415c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-18:09:29.779 415c Delete type=2 #220
+2026/03/20-18:09:29.779 415c Delete type=2 #222
+2026/03/20-18:09:29.779 415c Delete type=2 #224
+2026/03/20-18:09:29.779 415c Delete type=2 #226
+2026/03/20-18:09:29.779 415c Delete type=2 #228
+2026/03/20-18:10:07.595 2524 Level-0 table #231: started
+2026/03/20-18:10:07.597 2524 Level-0 table #231: 73071 bytes OK
+2026/03/20-18:10:07.598 2524 Delete type=0 #227
+2026/03/20-18:10:22.164 415c Level-0 table #233: started
+2026/03/20-18:10:22.169 415c Level-0 table #233: 73463 bytes OK
+2026/03/20-18:10:22.170 415c Delete type=0 #230
