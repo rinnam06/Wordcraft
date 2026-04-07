@@ -1,4 +1,2 @@
-[0406/155320.354:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0406/155517.623:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0406/161404.694:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 173
-[0406/212543.860:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 249
+[0407/163016.429:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0407/163213.598:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
